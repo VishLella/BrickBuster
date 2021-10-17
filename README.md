@@ -12,4 +12,5 @@ Classes included in the project:
 * Wall.java
 
 
-![image]
+![BrickBuster Demo](https://user-images.githubusercontent.com/70618441/137605467-abc2cb78-727c-404b-9379-e86f38e6f3f5.png)
+
